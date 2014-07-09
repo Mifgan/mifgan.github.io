@@ -379,9 +379,9 @@ h3 {
 
 #game-navigation a {
     line-height: 0.6em;
-    transition: all 1s;
+    transition: all .75s;
     color : #999999;
-    -webkit-transition: all 1s;
+    -webkit-transition: all .75s;
 }
 
 #game-navigation a:hover {
