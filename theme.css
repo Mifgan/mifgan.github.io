@@ -52,7 +52,7 @@ body {
 
 .navigation a {
     text-decoration: none;
-    color: #999999;
+    color: silver;
 }
 
 .navigation a:hover  {
@@ -379,8 +379,9 @@ h3 {
 
 #game-navigation a {
     line-height: 0.6em;
-    transition: all 1s;
-    -webkit-transition: all 1s;
+    transition: all .5s;
+    color : #999999;
+    -webkit-transition: all .5s;
 }
 
 #game-navigation a:hover {
