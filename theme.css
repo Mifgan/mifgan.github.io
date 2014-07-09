@@ -787,6 +787,8 @@ td.news-province-modification {
 
     transition: all 1s;
 
+    border-radius: 2em 2em 0em 0em;
+
 }
 
 .game-header a h1 {
