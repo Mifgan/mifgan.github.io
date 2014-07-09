@@ -680,7 +680,7 @@ td.news-province-modification {
 .intel-rotten { color: #F28585; }
 .chamberlain,
 .intel-stale { color: #FFC583; }
-.you { font-weight: bold; }
+.you { font-weight: bold; color: #990099 }
 .slot-number { font-size: 0.8em; color: #B0B0B0; }
 
 .provinces-legend {
