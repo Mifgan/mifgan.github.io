@@ -52,7 +52,7 @@ body {
 
 .navigation a {
     text-decoration: none;
-    color: silver;
+    color: #999999;
 }
 
 .navigation a:hover  {
