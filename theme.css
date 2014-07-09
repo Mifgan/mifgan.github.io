@@ -783,16 +783,16 @@ td.news-province-modification {
 
     background: #3B4041; /* Old browsers */
 
-    color: #fff;
+    color: #CCC;
 
-    transition: all 1s;
+    transition: all .75s;
 
     border-radius: 5px 5px 0px 0px;
 
 }
 
 .game-header a h1 {
-    color: silver;
+    color: #999;
     background: #222526; /* Old browsers */
 }
 
