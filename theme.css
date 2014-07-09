@@ -457,7 +457,7 @@ h3 {
 
 .game-content h2 {
     /* colors */
-    background-color: #000040;
+    background-color: rgba(0,0,128, .2);
 }
 
 .game-content h3 {
@@ -820,9 +820,9 @@ td.news-province-modification {
     -webkit-border-radius: 2px;
 
 
-    -moz-box-shadow:    inset 0 0 10px #B5B9BA;
-    -webkit-box-shadow: inset 0 0 10px #B5B9BA;
-    box-shadow:         inset 0 0 10px #B5B9BA;
+    -moz-box-shadow:    inset 0 0 30px #B5B9BA;
+    -webkit-box-shadow: inset 0 0 30px #B5B9BA;
+    box-shadow:         inset 0 0 30px #B5B9BA;
 
     /* colors */
     border-color: #3B4041;
