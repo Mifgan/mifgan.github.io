@@ -380,6 +380,7 @@ h3 {
 #game-navigation a {
     line-height: 0.6em;
     transition: all 1s;
+    -webkit-transition: all 1s;
 }
 
 #game-navigation a:hover {
